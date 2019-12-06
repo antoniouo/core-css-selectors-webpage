@@ -24,7 +24,5 @@
 
 Для вдохновения можешь посмотреть на эти логотипы:
 ![screenshot](readme-assets/logo.jpg).
-![screenshot](readme-assets/pepsi.jpg).
-![screenshot](readme-assets/microsoft.png).
 
 _И наконец, не забудь сделать "Pull request" своего проекта прежде, чем приступать к следующему заданию._

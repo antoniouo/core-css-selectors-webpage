@@ -1,1 +1,87 @@
-/* your styles here */
+* {
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+#logo img {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-radius: 100%;            
+}
+
+header div {    
+    font-size: 30px;                          
+    text-align: center;
+    font-weight: bold;
+    color:white    
+}
+
+header {   
+    border-radius: 25px; 
+    padding-bottom: 20px;
+    background-color: rgb(126, 126, 126);
+    background-repeat: no-repeat;
+    background-size: 300px;   
+    background-image: url("img/iron-man.jpeg")
+}
+
+.important {
+    font-size: 50px;
+    font-weight: bold;
+    color: red;    
+}
+
+.contents {
+    font-weight: bold;
+    text-align: center;                       
+}
+
+.contents li {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: underline;           
+}
+
+[name="pinned-post"] {
+    border-radius: 25px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    font-size: 20px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: justify;
+    background-color:rgb(196, 196, 196)            
+}
+
+[name="pinned-post"] h2 {
+    text-align: center   
+}
+
+article h2 {
+    margin-left: 5%;
+    text-decoration: underline; 
+}
+
+article p {
+    margin-left: 5%;
+    margin-right: 5%;    
+    text-align:justify;
+}
+
+article p i {
+    font-style: normal;
+}
+
+footer div{ 
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 30px;    
+}
+
